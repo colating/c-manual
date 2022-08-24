@@ -82,6 +82,18 @@ DefinitionTerm
 
     \* Cunning
 
-    https://daringfireball.net/projects/markdown/dingus
+    \> Email-style angle brackets
+
+    \> are used for blockquotes.
+
+    \> \> And, they can be nested.
+
+    \> \#### Headers in blockquotes
+
+    \>
+
+    \> \* You can quote a list.
+
+    \> \* Etc.
 
 [^1]: Footnote Text.
