@@ -66,4 +66,22 @@ DefinitionTerm
 
     \* nnnn.
 
+    \* Abacus
+
+    \* answer
+
+    \* Bubbles
+
+    1\. bunk
+
+    2\. bupkis
+
+    \* BELITTLER
+
+    3\. burper
+
+    \* Cunning
+
+    https://daringfireball.net/projects/markdown/dingus
+
 [^1]: Footnote Text.
